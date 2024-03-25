@@ -12,3 +12,14 @@ header{
 .escola{
     background-image: linear-gradient(rgba);
 }
+
+.escola-div-conteudo{
+    background-color: linear-gradient(#424E61,#4EBFE9);
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+.alura-start{
+    width: 50%;
+}
