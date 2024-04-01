@@ -4,7 +4,7 @@ header{
 }
 
 .cabecalho-imagem{
- width: 20%;
+ width: 50%;
 }
 .escola-imagem{
     width: 25;
@@ -19,7 +19,7 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-
-.alura-start{
-    width: 50%;
+}
+.Alura-Start{
+    background-color: #4EBFE9;
 }
