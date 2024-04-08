@@ -1,13 +1,13 @@
 header{
-    background-color: rgba(108, 103, 103, 0.768);
-    color: aliceblue;
+    background-color: rgba(202, 188, 188, 0.668);
+    color: rgb(235, 8, 144);
 }
 
 .cabecalho-imagem{
- width: 50%;
+ width: 70%;
 }
 .escola-imagem{
-    width: 25;
+    width: 60;
 }
 .escola{
     background-image: linear-gradient(rgba);
@@ -15,11 +15,11 @@ header{
 
 .escola-div-conteudo{
     background-color: linear-gradient(#424E61,#4EBFE9);
-    color: aliceblue;
+    color: rgb(4, 69, 23);
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .Alura-Start{
-    background-color: #4EBFE9;
+    background-color: #9913dd;
 }
