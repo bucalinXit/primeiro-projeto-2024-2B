@@ -1,13 +1,13 @@
 header{
-    background-color: rgba(202, 188, 188, 0.668);
-    color: rgb(235, 8, 144);
+    background-color: rgb(0, 2, 3);
+    color: rgb(255, 9, 9);
 }
 
 .cabecalho-imagem{
- width: 70%;
+ font-size: x-large;
 }
 .escola-imagem{
-    width: 60;
+    font-size: larger;
 }
 .escola{
     background-image: linear-gradient(rgba);
@@ -22,4 +22,8 @@ header{
 }
 .Alura-Start{
     background-color: #9913dd;
+    font-size: large;
+}
+.escola-titulo{
+    color: red;
 }
